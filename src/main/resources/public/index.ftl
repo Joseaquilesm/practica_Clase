@@ -9,7 +9,7 @@
 <body class="body">
 
     <div>
-        <h1>Hola esto es un titulo de otro color gracias al css</h1>
+        <h1 class="h1">Hola esto es un titulo de otro color gracias al css</h1>
 
     </div>
  <div>
