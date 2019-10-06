@@ -6,19 +6,19 @@
     <link rel="stylesheet" href="/style/style.css">
 
 </head>
-<body>
+<body class="body">
 
-<div>
-    <h1>Login</h1>
+<div class="center">
+    <h1 class="h1">Login</h1>
     <form action="/login" method="post" class="styleEjemplo">
-        <label for="usuario">Usuario:
+        <label class="h1" for="usuario">Usuario:
             <input id="usuario"  name="user" type="text">
         </label>
-        <label for="contrasena">Contrasena:
+        <label class="h1" for="contrasena">Contrasena:
             <input id="contrasena" name="password" type="password">
         </label>
-        <button type="submit">
-            sign up
+        <button class="button" type="submit" >
+            Iniciar Sesion
         </button>
     </form>
 
